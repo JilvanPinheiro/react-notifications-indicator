@@ -1,6 +1,6 @@
 {
   "name": "react-notifications-indicator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Notification indicator to show the pending notifications",
   "main": "lib/index.js",
   "scripts": {
