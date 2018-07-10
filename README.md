@@ -1,4 +1,4 @@
-Simple notification badge react component
+# Simple notification indicator in react
 
 [![Gyazo](http://i.gyazo.com/70028f7eb324a89fb130401774e8a159.gif)](http://gyazo.com/70028f7eb324a89fb130401774e8a159)
 
